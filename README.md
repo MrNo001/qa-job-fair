@@ -1,3 +1,3 @@
 # QA puzzle  
-Competition organized by Nordeys
-Solution by Niko Knežević
+-Competition organized by Nordeys
+-Solution by Niko Knežević
